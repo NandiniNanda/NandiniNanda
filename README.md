@@ -1,7 +1,7 @@
 ### Hi there 👋
 🚀 **Welcome to the World of Innovation!** 🚀
 
-Greetings, tech enthusiast! 👋 I'm [Nandini Nanda], an avid explorer in the vast realm of computer science. 🌐✨
+Greetings, tech enthusiast! 👋 I'm Nandini Nanda, an avid explorer in the vast realm of computer science. 🌐✨
 
 ### 💡 Innovation Alchemist
 
@@ -19,7 +19,7 @@ I don't just navigate the tech landscape; I sculpt it. My journey includes leadi
 
 Join me in the adventure of turning ideas into innovation. Whether it's crafting a pixel-perfect UI or diving into the depths of cutting-edge research, together, we can code the future!
 
-👨‍💻 **[Nandini Nanda]**
+👨‍💻 **Nandini Nanda**
 
 *Innovation Architect | Code Maestro | Tech Storyteller*
 
