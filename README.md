@@ -1,20 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 # 💫 About Me:
 🚀 *Welcome to the World of Innovation!* 🚀
 <br><br>
 Greetings, tech enthusiast! 👋 I'm  Nandini Nanda, an avid explorer in the vast realm of computer science. 🌐✨
-<br><br>
+<br>
 ### 💡 Innovation Alchemist
-<br><br>Embarking on a journey where creativity meets code, I've conjured up intuitive UIs at Barclays, danced with APIs, and woven tales of tech at OPEN Community, UPES. 
-<br><br>
+Embarking on a journey where creativity meets code, I've conjured up intuitive UIs at Barclays, danced with APIs, and woven tales of tech at OPEN Community, UPES. 
+<br>
 ### 🚀 Beyond the Binary
-<br><br>Not just a binary virtuoso, my skills traverse HTML, CSS, JavaScript, C++, MySQL, MongoDB, Node.js, React.js, AWS, and the art of technical content creation. Each line of code tells a story, and I'm here to narrate the future.
-<br><br>
+Not just a binary virtuoso, my skills traverse HTML, CSS, JavaScript, C++, MySQL, MongoDB, Node.js, React.js, AWS, and the art of technical content creation. Each line of code tells a story, and I'm here to narrate the future.
+<br>
 ### 🌐 Tech Voyager
-<br><br>I don't just navigate the tech landscape; I sculpt it. My journey includes leading as an Editorial Maestro, fostering collaboration and presenting 'Secure Image Retrieval' at COM-IT-CON 2023.
-<br><br>
+I don't just navigate the tech landscape; I sculpt it. My journey includes leading as an Editorial Maestro, fostering collaboration and presenting 'Secure Image Retrieval' at COM-IT-CON 2023.
+<br>
 ### 🤖 Let's Code Dreams into Reality
-<br><br>Join me in the adventure of turning ideas into innovation. Whether it's crafting a pixel-perfect UI or diving into the depths of cutting-edge research, together, we can code the future!
+Join me in the adventure of turning ideas into innovation. Whether it's crafting a pixel-perfect UI or diving into the depths of cutting-edge research, together, we can code the future!
 <br><br>👨‍💻 *Nandini Nanda*
 <br><br>Innovation Architect | Code Maestro | Tech Storyteller
 
