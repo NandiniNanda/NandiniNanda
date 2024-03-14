@@ -12,9 +12,6 @@ Not just a binary virtuoso, my skills traverse HTML, CSS, JavaScript, C++, MySQL
 <br>
 ### 🌐 Tech Voyager
 I don't just navigate the tech landscape; I sculpt it. My journey includes leading as an Editorial Maestro, fostering collaboration and presenting 'Secure Image Retrieval' at COM-IT-CON 2023.
-<br>
-### 🤖 Let's Code Dreams into Reality
-Join me in the adventure of turning ideas into innovation. Whether it's crafting a pixel-perfect UI or diving into the depths of cutting-edge research, together, we can code the future!
 <br><br>👨‍💻 *Nandini Nanda*
 <br><br>Innovation Architect | Code Maestro | Tech Storyteller
 
